@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to stay at home
+- ⚡ Fun fact: I like Formula 1
 
 <!---
 TheSmilingBarney/TheSmilingBarney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
